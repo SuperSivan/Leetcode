@@ -7,7 +7,7 @@ https://leetcode-cn.com/circle/discuss/f40g4J/
 
 https://zhuanlan.zhihu.com/p/274473971
 
-
+[C++大汇总](https://interviewguide.cn/#/Doc/Knowledge/C++/%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 1. C和C++的特点与区别？
 
     C: 

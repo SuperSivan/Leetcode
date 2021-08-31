@@ -17,6 +17,8 @@ https://blog.csdn.net/qq_22751305/article/details/109990620
 - LK 光流法
 - 四元数
 - ransac
+
+- [鱼眼相机模型](https://www.jianshu.com/p/d4a62c3f46ef)
 - [SIFT](https://blog.csdn.net/qq_37374643/article/details/88606351)
 
     优点：
@@ -35,3 +37,4 @@ https://blog.csdn.net/qq_22751305/article/details/109990620
     -[Steer BRIEF](https://blog.csdn.net/zhou5513/article/details/108312943)
 - nms
 - [SIFT + RANSAC](https://blog.csdn.net/masibuaa/article/details/9145441)
+- [手写RANSAC](https://www.cnblogs.com/winslam/p/9830899.html)
