@@ -16,7 +16,7 @@ https://blog.csdn.net/qq_22751305/article/details/109990620
 - 相机内外参意义，海塞矩阵雅克比矩阵
 - LK 光流法
 - 四元数
-- ransac
+- ransac 
 
 - [鱼眼相机模型](https://www.jianshu.com/p/d4a62c3f46ef)
 - [SIFT](https://blog.csdn.net/qq_37374643/article/details/88606351)
